@@ -1,0 +1,1 @@
+This is a java implementation of DSatur, solving the Graph coloring problem. Maxheap is implemented independent of the java collectionframe work. The data structures of graph and graph nodes are also carefully designed. This is the final project of Advanced Algorithm. Please refer to problemDescription.pdf and reports for more info.
